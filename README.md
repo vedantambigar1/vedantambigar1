@@ -10,8 +10,6 @@
 
 ###
 - 🔭 I’m currently working on **Frontend**
-  
-- 🌱 I’m currently learning **Spring Boot, Spring AI**
 
 - 💬 Ask me about **a,c++,python,Javascript,SQL**  
 
